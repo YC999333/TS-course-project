@@ -1,5 +1,3 @@
-import app from "./app.css";
-
 class ProjectInput {
   templateElement: HTMLTemplateElement;
   hostElement: HTMLDivElement;
